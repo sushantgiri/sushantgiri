@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my machine learning projects are available on [https://github.com/sushantgiri/MachineLearningEssentials](https://github.com/sushantgiri/MachineLearningEssentials)
 
-- 📝 I regularly write articles on Medium: Do feel free to check it out at: [https://medium.com/@sushantgiri]([https://medium.com/@sushantgiri])
+- 📝 I regularly write articles on Medium: Do feel free to check it out at: [https://medium.com/@sushantgiri]
 
 - 💬 Ask me about **anything machine-learning and mobile application related. I'll be happy to help you out. I love talking about this**
 
