@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **front end applications, ideally displaying the data-science results on a website.**
 
-- 👨‍💻 All of my machine learning projects are available on [https://github.com/sushantgiri/MachineLearningEssentials](https://github.com/sushantgiri/MachineLearningEssentials)
+- 👨‍💻 All of my machine learning projects are available on [https://github.com/sushantgiri/MachineLearning](https://github.com/sushantgiri/MachineLearning)
 
 - 📝 I regularly write articles on Medium: Do feel free to check it out at: [https://medium.com/@sushantgiri38](https://medium.com/@sushantgiri38)
 
