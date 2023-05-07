@@ -27,7 +27,6 @@
 
 - ⚡ Fun fact **I love to cook, watch NBA, play guitar and enjoy coding!**
 
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
