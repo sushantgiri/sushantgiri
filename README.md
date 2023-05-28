@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/mobilew09680449" target="blank"><img src="https://img.shields.io/twitter/follow/mobilew09680449?logo=twitter&style=for-the-badge" alt="mobilew09680449" /></a> </p>
 
 - 🔭 I’m currently working on **building up my Github profile on with data science and mobile application projects.**
+
 - 🌱 I’m currently learning **the basics of Exploratory Data Analysis(EDA), Prediction(Regression), Prediction(Classification), Cluster Analysis (Unclassified Data) and advanced data science (Deep Learning).**
 
 - 👯 I’m looking to collaborate on **any of the presented machine learning projects or open to mobile application related projects.**
