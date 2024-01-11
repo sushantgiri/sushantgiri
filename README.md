@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant Giri</h1>
 
-<h3 align="center">A passionate machine learning engineer and experienced mobile application developer.</h3>
+<h3 align="center">Machine learning grraduate and experienced mobile application developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantgiri&label=Profile%20views&color=0e75b6&style=flat" alt="sushantgiri" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **building up my Github profile on with data science and mobile application projects.**
 
-- 🌱 I’m currently learning **the basics of Exploratory Data Analysis(EDA), Prediction(Regression), Prediction(Classification), Cluster Analysis (Unclassified Data) and advanced data science (Deep Learning).**
+- 🌱 I’m currently learning **Multi image object detection**
 
-- 👯 I’m looking to collaborate on **any of the presented machine learning projects or open to mobile application related projects.**
+- 👯 I’m looking to collaborate and work on **any of the presented machine learning projects or open to mobile application related projects.**
 
 - 🤝 I’m looking for help with **front end applications, ideally displaying the data-science results on a website.**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on Medium: Do feel free to check it out at: [https://medium.com/@sushantgiri38](https://medium.com/@sushantgiri38)
 
-- 💬 Ask me about **anything machine-learning and mobile application related. I'll be happy to help you out. I love talking about this**
+- 💬 Ask me about **anything machine-learning and mobile application related. I would be happy to help you out. I love talking about this**
 
 - 📫 How to reach me **email me or connect me on LinkedIn!**
 
