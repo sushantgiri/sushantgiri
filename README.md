@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushant Giri</h1>
 
-<h3 align="center">Machine learning grraduate and experienced mobile application developer.</h3>
+<h3 align="center">Machine learning graduate and experienced mobile application developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushantgiri&label=Profile%20views&color=0e75b6&style=flat" alt="sushantgiri" /> </p>
 
