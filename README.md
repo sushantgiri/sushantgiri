@@ -54,12 +54,6 @@ Here are a few apps I’ve built or led development for:
 - 🗺️ **Geo-mapping Utilities (Kotlin + Swift)**  
 - 🧪 **AI/ML Notebooks: NLP, Classification, CV**
 
-## 📈 GitHub Analytics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantgiri&show_icons=true&theme=react&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantgiri&layout=compact&theme=react&hide_border=true" height="150" />
-</p>
-
 ## 🤝 Let’s Connect
 - 🌐 **LinkedIn:** www.linkedin.com/in/sushantgiri  
 - 📧 **Email:** sushantgiri38@gmail.com  
